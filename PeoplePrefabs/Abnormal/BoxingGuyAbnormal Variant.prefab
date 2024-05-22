@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1622172026099092969
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3377906837206379145, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_Name
+      value: BoxingGuyAbnormal Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963635622671848105, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8968250975574517407, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: Abnormal
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9219310700566548659, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: Sounds.Array.data[0].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 3be79a900204fa149a8621bfea2c0916, type: 3}
+    - target: {fileID: 9219310700566548659, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
+      propertyPath: Sounds.Array.data[0].Subtitle.thesubtitle
+      value: I fell asleep on the train and when I woke up I was here
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0d6ae019dec163b40a6c9f35d0f3bf18, type: 3}
